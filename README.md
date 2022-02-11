@@ -1,4 +1,4 @@
-<p><b>Project: House Price Prediction using Boston Housing Dataset.</b></p>
+# House Price Prediction using Boston Housing Dataset.
 Hi I made this project during the 7 Days Bootcamp, conducted by <b> SHAPEAI
 </b>.
 The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
